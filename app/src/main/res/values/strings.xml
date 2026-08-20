@@ -2,4 +2,6 @@
     <string name="app_name">Media Tracker UNAERP</string>
     <string name="title_activity_book_detail">BookDetailActivity</string>
     <string name="hello_world">hello world</string>
+    <string name="lorem_ipsum">Lorem Ipsum</string>
+    <string name="reading_progress">Reading Progress</string>
 </resources>

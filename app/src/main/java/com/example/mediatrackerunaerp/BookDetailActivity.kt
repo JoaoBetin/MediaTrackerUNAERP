@@ -25,5 +25,7 @@ class BookDetailActivity : ComponentActivity() {
             v.setPadding(systemBar.left, systemBar.top,systemBar.right, systemBar.bottom )
             insets
         }
+
+
     }
 }
