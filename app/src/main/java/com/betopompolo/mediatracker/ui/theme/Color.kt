@@ -1,4 +1,4 @@
-package com.example.mediatrackerunaerp.ui.theme
+package com.betopompolo.mediatracker.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

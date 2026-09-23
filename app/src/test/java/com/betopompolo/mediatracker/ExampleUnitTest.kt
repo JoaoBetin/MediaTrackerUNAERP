@@ -1,4 +1,4 @@
-package com.example.mediatrackerunaerp
+package com.betopompolo.mediatracker
 
 import org.junit.Test
 

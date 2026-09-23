@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Media Tracker UNAERP"
+rootProject.name = "Media Tracker"
 include(":app")

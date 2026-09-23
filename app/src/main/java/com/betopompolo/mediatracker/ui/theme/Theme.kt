@@ -1,4 +1,4 @@
-package com.example.mediatrackerunaerp.ui.theme
+package com.betopompolo.mediatracker.ui.theme
 
 import android.app.Activity
 import android.os.Build
@@ -34,7 +34,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun MediaTrackerUNAERPTheme(
+fun MediaTrackerTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,
